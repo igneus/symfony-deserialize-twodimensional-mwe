@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d9cbf19cffe700d3fef94011a22d85b3",
+    "content-hash": "5c3a67f8a4ecb6dc7af8a237e2fe6540",
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -4124,16 +4124,16 @@
         },
         {
             "name": "symfony/property-info",
-            "version": "v4.1.2",
+            "version": "v4.1.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/property-info.git",
-                "reference": "6a5538f1c820573da06b3522539c12af0887a583"
+                "reference": "a3a785d23b4fe1d1cea02be14011d654432aeb89"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/property-info/zipball/6a5538f1c820573da06b3522539c12af0887a583",
-                "reference": "6a5538f1c820573da06b3522539c12af0887a583",
+                "url": "https://api.github.com/repos/symfony/property-info/zipball/a3a785d23b4fe1d1cea02be14011d654432aeb89",
+                "reference": "a3a785d23b4fe1d1cea02be14011d654432aeb89",
                 "shasum": ""
             },
             "require": {
@@ -4196,7 +4196,7 @@
                 "type",
                 "validator"
             ],
-            "time": "2018-07-07T16:00:36+00:00"
+            "time": "2018-08-03T11:13:38+00:00"
         },
         {
             "name": "symfony/routing",
